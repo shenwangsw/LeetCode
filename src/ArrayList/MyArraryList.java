@@ -1,4 +1,4 @@
-package ArraryList;
+package ArrayList;
 
 public interface MyArraryList {
     //定义一些方法

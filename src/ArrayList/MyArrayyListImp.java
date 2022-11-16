@@ -1,6 +1,4 @@
-package ArraryList;
-
-import java.util.Arrays;
+package ArrayList;
 
 public class MyArrayyListImp implements MyArraryList{
     private Object[] elements;
